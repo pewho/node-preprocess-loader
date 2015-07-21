@@ -1,6 +1,6 @@
 {
   "name": "node-preprocess-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A loader for webpack that provide node-preprocess pass on a source (html, js ....). See https://github.com/jsoverson/preprocess for more informations.",
   "main": "index.js",
   "scripts": {
