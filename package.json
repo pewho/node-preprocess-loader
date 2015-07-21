@@ -1,0 +1,28 @@
+{
+  "name": "node-preprocess-loader",
+  "version": "0.0.1",
+  "description": "A loader for webpack that provide node-preprocess pass on a source (html, js ....). See https://github.com/jsoverson/preprocess for more informations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pewho/node-preprocess-loader"
+  },
+  "keywords": [
+    "webpack",
+    "preprocess",
+    "node.js",
+    "loader"
+  ],
+  "author": "Pewho Lewok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pewho/node-preprocess-loader/issues"
+  },
+  "homepage": "https://github.com/pewho/node-preprocess-loader",
+  "devDependencies": {
+    "preprocess": "^3.0.2"
+  }
+}
